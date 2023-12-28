@@ -1,0 +1,38 @@
+/* h1{
+    color: brown;
+    font-size: 70px; */
+/* }
+.heading {
+    color: blue;
+}
+.title {
+    color: bisque;
+} */
+/* .heading .title {
+    color: blueviolet;
+}
+.heading {
+    color: black;
+}
+.title {
+    color: aqua; */
+/* } */
+/* .h2 {
+    color: bisque;
+}
+
+#h2 {
+    color: blueviolet;
+}
+h2 {
+    color: aquamarine;
+} */
+.h2 {
+    border-color: black;
+    border-style: dashed;
+    border-width: 3px;
+    background: transparent;
+    border-radius: 6px;
+    width:10%;
+    min-width: 400px;
+}
